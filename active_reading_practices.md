@@ -1,4 +1,6 @@
-# Active Reading Practices
+# Be Better Prepared for Class with Active Reading
+
+We will be reading a series of articles from educational journals and blogs each week. You are expected to complete readings prior to the start of class; if you do, you will be better prepared and be able to participate more fully in the discussions. We will be discussing these readings in class, drawing upon their ideas and concepts, and you will be asked to support your statements with evidence from the readings.
 
 Pretty much everyone "knows" how to read, right? Pick up the book or article, point your eyes at the words, and occasionally flip the page or scroll down on the screen.
 

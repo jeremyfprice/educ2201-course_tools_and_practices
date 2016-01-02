@@ -17,9 +17,9 @@ This document is a companion document to the syllabus to help you grow and succe
 
 ##Get to Know Your Professor
 
-**Dr. Jeremy Price**
 
-|  | Dr. Jeremy Price |
+
+|  | **Dr. Jeremy Price** |
 |--|--|
 | Office: | Education 315 |
 | Email: | [jeremy.price@fairmontstate.edu](mailto:jeremy.price@fairmontstate.edu) |

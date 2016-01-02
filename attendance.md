@@ -1,6 +1,4 @@
-# Attendance
-
-Improve Your Chances for Success by Coming to Class Every Day
+# Improve Your Chances for Success by Coming to Class Every Day
 
 Being present is important to success in this class. Research has found that *just showing up to class* is a better way to tell if you will do well in your college classes than anything else, including how you might have done in high school [(Crede, Roch, and Kieszczynka, 2010)](http://rer.sagepub.com/content/80/2/272.short). This class is very collaborative and you will often be working in teams: your teammates depend on you. Attendance will be taken at every class, both as a way to help me learn your names and as a way to help you stay on track with attendance.
 

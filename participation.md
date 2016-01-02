@@ -12,4 +12,5 @@ We learn best when we converse with others about ideas and concepts, and partici
 
 It is good to "answer questions" (and sometimes I will ask the class a question to better understand the current level of understanding) and it is often good to draw on your personal experience. But there's more to it than that; participation also involves bringing in what you have learned from the readings and applying what you learn from the in-class discussions to your Learning Performances.
 
-\marginnote{Technology is a wonderful tool, but it is also a way to avoid being present. There is no texting allowed in class, and I will notice when you use the laptops and tablets for reasons other than the task at hand, such as checking Facebook, playing games, or shopping.}
+##Technology Use in Teaching with Technology
+Technology is a wonderful tool, but it is also a way to avoid being present. There is no texting allowed in class, and I will notice when you use the laptops and tablets for reasons other than the task at hand, such as checking Facebook, playing games, or shopping. In addition, on days that are set aside as "Work and Focus Days" **don't use it as a study hall.**

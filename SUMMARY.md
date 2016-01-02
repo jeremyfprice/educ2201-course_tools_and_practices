@@ -12,5 +12,5 @@
 * [Learning](learning.md)
 * [Expectations](expectations.md)
    * [Attendance](expectations-attendance.md)
-   * Participation
+   * [Participation](expectations-participation.md)
 

@@ -34,6 +34,6 @@ Visit me during my student drop-in hours:
 |--|--|--|
 | Mondays | 11:00am - 12:00pm | 1:00pm - 2:00pm |
 | Wednesdays | 11:00am - 12:00pm | 1:00pm - 2:00pm |
-| Fridays | 11:00am - 12:00pm | By Appointment |
+| Fridays | 11:00am - 12:00pm | ~ By Appointment ~ |
 
 If you can't make my student drop-in hours, **schedule an appointment with me** at [https://jeremyprice.youcanbook.me/](https://jeremyprice.youcanbook.me/).

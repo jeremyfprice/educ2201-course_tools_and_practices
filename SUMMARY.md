@@ -10,5 +10,5 @@
 * [Attendance](attendance.md)
 * [Participation](participation.md)
 * [Warm-Ups](warm-ups.md)
-* Staying in Touch
+* [Staying in Touch](email.md)
 

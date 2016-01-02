@@ -1,2 +1,7 @@
 # Attendance
 
+Improve Your Chances for Success by Coming to Class Every Day
+
+Being present is important to success in this class. Research has found that *just showing up to class* is a better way to tell if you will do well in your college classes than anything else, including how you might have done in high school [(Crede, Roch, and Kieszczynka, 2010)](http://rer.sagepub.com/content/80/2/272.short). This class is very collaborative and you will often be working in teams: your teammates depend on you. Attendance will be taken at every class, both as a way to help me learn your names and as a way to help you stay on track with attendance.
+
+I also understand that life happens and sometimes you might need to miss class. Some acceptable reasons to miss class include family emergencies, car troubles break down, icy or snowy roads, or illness. Some not acceptable reasons to miss class include oversleeping, conflict with outside jobs (coaching a youth team is considered an "outside job"), or the I don't feel like going to class excuse. Keep an open line of communications with me about your absences from this class. If you need to miss class, please *notify me directly by email*. Although I would prefer to be notified ahead of time of your absence, if you have an excuse for your absence you have 24 hours after class to notify me. I will notice patterns of absences - unexcused *and* excused - and I will call you on it because I want to do everything I can to help you succeed.

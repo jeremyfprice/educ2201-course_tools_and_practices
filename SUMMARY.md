@@ -12,4 +12,5 @@
 * [Warm-Ups](warm-ups.md)
 * [Staying in Touch](email.md)
 * [Learning](learning.md)
+   * A Quick Note on Learning
 

@@ -26,12 +26,6 @@ This document is a companion document to the syllabus to help you grow and succe
 | Phone: | 304.333.3686 |
 
 
-Dr. Jeremy Price
-
-Office: Education 315 | 304.333.3686
-
-Email: jeremy.price@fairmontstate.edu
-
 \noindent \marginnote{\textit{Psst: Email is the best way to contact me.}}Email: \href{mailto:jeremy.price@fairmontstate.edu}{\nolinkurl{jeremy.price@fairmontstate.edu}}
 
 \noindent Visit me during my student drop-in hours:

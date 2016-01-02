@@ -8,7 +8,7 @@
 * ["How Did It Get So Late So Soon?"](how_did_it_get_so_late_so_soon.md)
 * [Staying in Touch](email.md)
 * [Learning](learning.md)
-* [Expectations](expectations.md)
+* [Expectations In Class](expectations.md)
    * [Attendance](expectations-attendance.md)
    * [Warm-Ups](warm-ups.md)
    * [Participation](expectations-participation.md)

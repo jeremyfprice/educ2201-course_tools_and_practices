@@ -19,26 +19,22 @@ This document is a companion document to the syllabus to help you grow and succe
 
 
 
-|  | **Dr. Jeremy Price** |
+| Name:  | **Dr. Jeremy Price** |
 |--|--|
 | Office: | Education 315 |
 | Email: | [jeremy.price@fairmontstate.edu](mailto:jeremy.price@fairmontstate.edu) |
 | Phone: | 304.333.3686 |
+| Hobbies: |  |
 
 
-\noindent \marginnote{\textit{Psst: Email is the best way to contact me.}}Email: \href{mailto:jeremy.price@fairmontstate.edu}{\nolinkurl{jeremy.price@fairmontstate.edu}}
+*Psst: **Email is the best way to contact me.***
 
-\noindent Visit me during my student drop-in hours:
-\marginnote{If you can't make my student drop-in hours, schedule an appointment with me at \url{https://jeremyprice.youcanbook.me/}}
-\begin{table}[ht]
-  \centering
-  %\fontfamily{ppl}\selectfont
-  \begin{tabular}{ccc}
-    \toprule
-    Mondays & Wednesdays & Fridays \\
-    \midrule
-    10:00am - 12:00pm & 10:00am - 12:00pm & 10:00am - 12:00pm \\
- 	& & 1:00pm - 2:00pm \\
-    \bottomrule
-  \end{tabular}
-\end{table}
+Visit me during my student drop-in hours:
+
+| Day | Morning | Afternoon |
+|--|--|--|
+| Mondays | 11:00am - 12:00pm | 1:00pm - 2:00pm |
+| Wednesdays | 11:00am - 12:00pm | 1:00pm - 2:00pm |
+| Fridays | 11:00am - 12:00pm | |
+
+If you can't make my student drop-in hours, **schedule an appointment with me** at [https://jeremyprice.youcanbook.me/](https://jeremyprice.youcanbook.me/).

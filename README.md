@@ -17,7 +17,7 @@ This document is a companion document to the syllabus to help you grow and succe
 
 ##Get to Know Your Professor
 
-**Dr. Jeremy Price
+**Dr. Jeremy Price**
 
 |  | Dr. Jeremy Price |
 |--|--|

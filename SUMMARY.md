@@ -11,4 +11,5 @@
 * [Participation](participation.md)
 * [Warm-Ups](warm-ups.md)
 * [Staying in Touch](email.md)
+* Learning
 

@@ -2,7 +2,10 @@
 
 Communications between me and you outside of class will occur over email. Please ***do not send me a message through Blackboard***. Please make sure to **check your Fairmont State email on a regular basis** (at least 4-5 times per week). If you do not have a smart phone, a computer or internet access at home or in your dorm room, make it a regular practice to go to the library and check your email there.
 
-https://www.insidehighered.com/views/2015/04/16/advice-students-so-they-dont-sound-silly-emails-essay
+Before writing to me (or any of your professors) with a question or problem, check your resources first: look in the syllabus, dig through the Course Tools and Practices document, ask a classmate. Then, read [Re: Your Recent Email to Your Professor](https://www.insidehighered.com/views/2015/04/16/advice-students-so-they-dont-sound-silly-emails-essay). Following the authors' advice will make you look much more professional in the eyes of your professors.
+
+It is well worth your time to read the entire article, but here are the authors' main points:
+
 
 1. **Use a clear subject line.** Identify the reason you are contacting me in the subject line, so I know what to expect when reading the email.
 2. **Use a salutation and signature.** You can call me either Dr. Price or Professor Price, and then sign off with your full name. It's just a polite thing to do.

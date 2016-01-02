@@ -11,4 +11,5 @@
 * [Warm-Ups](warm-ups.md)
 * [Staying in Touch](email.md)
 * [Learning](learning.md)
+* Expectations
 

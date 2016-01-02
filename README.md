@@ -20,7 +20,7 @@ This document is a companion document to the syllabus to help you grow and succe
 
 
 | Name:  | **Dr. Jeremy Price** |
-|--|--|
+|---|---|
 | Office: | Education 315 |
 | Email: | [jeremy.price@fairmontstate.edu](mailto:jeremy.price@fairmontstate.edu) |
 | Phone: | 304.333.3686 |
@@ -31,7 +31,7 @@ This document is a companion document to the syllabus to help you grow and succe
 Visit me during my student drop-in hours:
 
 | Day | Morning | Afternoon |
-|--|--|--|
+|---|---|---|
 | Mondays | 11:00am - 12:00pm | 1:00pm - 2:00pm |
 | Wednesdays | 11:00am - 12:00pm | 1:00pm - 2:00pm |
 | Fridays | 11:00am - 12:00pm | ~ By Appointment ~ |

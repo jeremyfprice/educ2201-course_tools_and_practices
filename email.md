@@ -16,4 +16,4 @@ It is well worth your time to read the entire article, but here are the authors'
 5. **Beware of concerns about entitlement.** Rightly or wrongly, college students often get a bad rap. Take responsibility when writing with a problem, and let me know what you could have done differently.
 6. **Add a touch of humanity.** Let me know something you enjoyed or learned in class. It's always nice to let your professors know that you are listening to them.
 
-Doing your part and writing in a clear and professional manner in your emails to your professors will go a long way.
+Doing your part and writing in this way to your professors will go a long way to helping your professors see how professional you are.

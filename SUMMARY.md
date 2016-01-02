@@ -12,5 +12,5 @@
 * [Staying in Touch](email.md)
 * [Learning](learning.md)
 * [Expectations](expectations.md)
-   * Attendance
+   * [Attendance](expectations-attendance.md)
 

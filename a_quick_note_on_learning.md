@@ -1,0 +1,23 @@
+# A Quick Note on Learning
+
+This document contains a number of different resources, strategies, and suggestions for succeeding as a student in EDUC2201 and at Fairmont State University. You are encouraged to look through these strategies and think about them in terms of how you approach some of these activities and how you might adopt these practices into your routines. This is the core of what is called learning, and it involves understanding a number of different things:
+
+* *Sometimes learning is fun, exciting, and even easy.* You might lose track of time as all of your attention is focused on the task at hand. When you are in this state of mind—referred to as flow by the psychologist Mihaly Csikszentmihalyi—**GO WITH IT**.
+
+* *Sometimes learning is difficult and involves slogging through tasks that you may not want to do.* **KEEP AT IT**, especially when you don't "want" to. You might want to try finding a reason for doing this task, a reason that makes sense to you. If you are having trouble finding a meaningful purpose for accomplishing a task, please come and see me or send me an email and we can work on finding a purpose together. Welsh miners, some of whom eventually settled in West Virginia and southwestern Pennsylvania, have a saying for times such as these: *Dyfal donc a dyr y garreg,* tapping persistently breaks the stone.
+
+* *Sometimes you have to unlearn what you have learned.* It may be that practices, routines, and strategies that have been sufficient in other settings and classes are not sufficient—or simply do not work—in this class. You might have to work on breaking old habits and learning new practices. This can be disorienting and disappointing. When you feel this way, **JUST DO IT**. Breaking these old (and not entirely good habits) is important to do in order to learn, as Ralph Waldo Emerson once wrote, "A foolish consistency is the hobgoblin of little minds…" (I know you all have big minds, so put aside some of those consistencies). You may not be completely aware of what you are capable of doing until you get there and look back. I have set up structures and activities to help you identify old habits and I will do my best to help you.
+
+* *Learning requires that you approach your experiences with awareness.* By approaching experiences aware of what is going on inside your head, inside your body, and all around you, you will be better able to engage the practices, strategies, and practices necessary to grow and learn. This is called metacognition by cognitive scientists and mindfulness by psychologists and philosophers. This kind of awareness is not easy, so **PRACTICE IT**. One of my favorite passages in any book is from Hat Full of Sky by Terry Pratchett: "First Thoughts are the everyday thoughts. Everyone has those. Second Thoughts are the thoughts you think about the way you think. People who enjoy thinking have those. Third Thoughts are thoughts that watch the world and think all by themselves." Cultivating awareness means practicing the art of having Second and Third Thoughts.
+
+* *You are not alone.* Even though it may feel like you are the only one who is frustrated and confused, you are not. Even though you may not feel like you need help or want help or getting help is a sign of weakness, **SEEK IT**. As your professor, I am here to help you succeed. There are other resources on campus such as the Writing Center, the Tutoring Center, and Disability Services. Make use of these resources. Your peers are also excellent resources and building networks for learning will aid you at every step of your learning and teaching journey.
+
+## Quick Tips for (Re-)Learning
+Learnstreaming has some [quick suggestions](http://learnstreaming.com/improve-your-learning-from-a-to-z/) for getting started on (re-)learning. Notice how much is involved in the learning process - it's not just your brain.
+
+
+### More on Learning about Learning
+
+![](3316698471.png)
+
+This photo is of a statue of Manjusri, the Bhuddist god of wisdom, as imagined by practitioners of Mahāyāna Bhuddism in Nepal. Manjusri is wielding the "sword of wisdom" in his right hand and he seems to be pushing back against something with his left hand. I interpret these visual cues as indicating that attaining wisdom (or learning) is an active process, rather than a passive one where you just absorb things. Attaining wisdom, when "reading" this statue, means that you have to be an active participant and cut out and push back on any distractors that may come your way. While it need not necessarily be a violent activity, you do need to be aware of what's coming in and an active participant in making connections and meanings.

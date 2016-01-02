@@ -8,5 +8,5 @@
 * [Using Tools of the (Learner) Trade](using_tools_of_the_learner_trade.md)
 * ["How Did It Get So Late So Soon?"](how_did_it_get_so_late_so_soon.md)
 * [Attendance](attendance.md)
-* Participation
+* [Participation](participation.md)
 

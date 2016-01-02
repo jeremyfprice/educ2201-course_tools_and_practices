@@ -24,8 +24,7 @@ This document is a companion document to the syllabus to help you grow and succe
 | Office: | Education 315 |
 | Email: | [jeremy.price@fairmontstate.edu](mailto:jeremy.price@fairmontstate.edu) |
 | Phone: | 304.333.3686 |
-| Hobbies: |  |
-
+| Hobbies: | Reading, Hiking, Coding, Gardening |
 
 *Psst: **Email is the best way to contact me.***
 

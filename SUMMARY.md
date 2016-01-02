@@ -9,7 +9,7 @@
 * [Staying in Touch](email.md)
 * [Learning](learning.md)
 * [Expectations](expectations.md)
-   * [Warm-Ups](warm-ups.md)
    * [Attendance](expectations-attendance.md)
+   * [Warm-Ups](warm-ups.md)
    * [Participation](expectations-participation.md)
 

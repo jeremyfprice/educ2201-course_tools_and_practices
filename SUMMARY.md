@@ -1,7 +1,6 @@
 # Summary
 
 * [Course Tools and Practices for EDUC2201](README.md)
-* [A Quick Note on Learning](a_quick_note_on_learning.md)
 * [Active Reading Practices](active_reading_practices.md)
 * [Academic Writing Practices](academic_writing_practices.md)
 * [Citing Your Sources](citing_your_sources.md)

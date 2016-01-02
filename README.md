@@ -1,9 +1,4 @@
-#COURSE TOOLS AND PRACTICES
-
-##EDUC2201: TEACHING WITH DIGITAL MEDIA AND TECHNOLOGY
-
 *"Teaching is two-parts planning, one-part reflection, and extra heavy on the experimentation." ~ Rebecca Alber*
-
 
 *"It seems to me that that, finally, is what good teaching is all about.... Somehow or another, skill and knowledge are integrated into some kind of a human connection." ~ Mike Rose*
 
@@ -26,7 +21,7 @@ This document is a companion document to the syllabus to help you grow and succe
 | Phone: | 304.333.3686 |
 | Hobbies: | Reading, Hiking, Coding, Gardening |
 
-*Psst: **Email is the best way to contact me.***
+*Psst:* **Email is the best way to contact me.**
 
 Visit me during my student drop-in hours:
 

@@ -13,5 +13,5 @@
    * [Participation](expectations-participation.md)
 * [Attendance](attendance.md)
 * [Participation](participation.md)
-* Warm-Ups
+* [Warm-Ups](class_warm-ups.md)
 

@@ -2,7 +2,7 @@
 
 * [Course Tools and Practices for EDUC2201](README.md)
 * [Course Expectations](course_expectations.md)
-   * [expectations-warm-ups](expectations-warm-ups.md)
+   * [Warm-Ups](expectations-warm-ups.md)
    * [Attendance](expectations-attendance.md)
 * [Attendance](attendance.md)
 * [Warm-Ups](class_warm-ups.md)

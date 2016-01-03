@@ -10,6 +10,7 @@
 * [Academic Practices](academic_practices.md)
    * [Active Reading](active_reading.md)
    * [Academic Writing](academic_writing.md)
+   * Citing Sources
 * [Active Reading Practices](active_reading_practices.md)
 * [Academic Writing Practices](academic_writing_practices.md)
 * [Citing Your Sources](citing_your_sources.md)

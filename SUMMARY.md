@@ -8,6 +8,7 @@
    * [Participation](expectations-participation.md)
    * [Keeping In Touch](keeping_in_touch.md)
 * [Academic Practices](academic_practices.md)
+   * Active Reading
 * [Active Reading Practices](active_reading_practices.md)
 * [Academic Writing Practices](academic_writing_practices.md)
 * [Citing Your Sources](citing_your_sources.md)

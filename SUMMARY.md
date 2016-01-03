@@ -5,7 +5,7 @@
    * [Warm-Ups](expectations-warm-ups.md)
    * [Attendance](expectations-attendance.md)
    * [Participation](expectations-participation.md)
-   * Keeping In Touch
+   * [Keeping In Touch](keeping_in_touch.md)
 * [Attendance](attendance.md)
 * [Warm-Ups](class_warm-ups.md)
 * [Participation](participation.md)

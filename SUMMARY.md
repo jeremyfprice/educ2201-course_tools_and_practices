@@ -4,7 +4,7 @@
 * [On Learning](on_learning.md)
 * [Course Expectations](course_expectations.md)
    * [Improve Your Chances of Success by Coming to Class Every Day](expectations-attendance.md)
-   * [Warm-Ups](expectations-warm-ups.md)
+   * [Get in the Right Groove for Class](expectations-warm-ups.md)
    * [Participation](expectations-participation.md)
    * [Taking Notes](taking_notes.md)
    * [Keeping In Touch](keeping_in_touch.md)

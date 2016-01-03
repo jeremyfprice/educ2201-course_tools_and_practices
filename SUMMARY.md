@@ -1,7 +1,7 @@
 # Summary
 
 * [Course Tools and Practices for EDUC2201](README.md)
-* Class Expectations
+* Course Expectations
 * [Attendance](attendance.md)
 * [Warm-Ups](class_warm-ups.md)
 * [Participation](participation.md)

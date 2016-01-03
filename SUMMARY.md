@@ -8,7 +8,7 @@
    * [Participation](expectations-participation.md)
    * [Taking Notes](taking_notes.md)
    * [Keeping In Touch](keeping_in_touch.md)
-   * Review Your Feedback
+   * [Review Your Feedback](review_your_feedback.md)
 * [Academic Practices](academic_practices.md)
    * [Active Reading](active_reading.md)
    * [Academic Writing](academic_writing.md)

@@ -5,7 +5,7 @@
 * [Course Expectations](course_expectations.md)
    * [Improve Your Chances of Success by Coming to Class Every Day](expectations-attendance.md)
    * [Get in the Right Groove for Class](expectations-warm-ups.md)
-   * [Participation](expectations-participation.md)
+   * [Participate Effectively to Get More Out of Class Time](expectations-participation.md)
    * [Taking Notes](taking_notes.md)
    * [Keeping In Touch](keeping_in_touch.md)
 * [Using Tools of the (Learner) Trade](using_tools_of_the_learner_trade.md)

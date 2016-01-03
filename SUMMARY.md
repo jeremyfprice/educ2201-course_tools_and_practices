@@ -4,6 +4,7 @@
 * [Course Expectations](course_expectations.md)
    * [Warm-Ups](expectations-warm-ups.md)
    * [Attendance](expectations-attendance.md)
+   * Participation
 * [Attendance](attendance.md)
 * [Warm-Ups](class_warm-ups.md)
 * [Participation](participation.md)

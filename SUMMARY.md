@@ -9,7 +9,7 @@
    * [Take Knowledge from Class to Projects by Taking Notes](taking_notes.md)
    * [Stay Current by Keeping In Touch Outside of Class](keeping_in_touch.md)
 * [Using Tools of the (Learner) Trade](using_tools_of_the_learner_trade.md)
-   * [Rubrics](rubrics.md)
+   * [Reading a Rubric](rubrics.md)
    * [Models](models.md)
    * [Feedback](feedback.md)
 * [Academic Practices](academic_practices.md)

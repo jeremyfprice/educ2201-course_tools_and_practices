@@ -6,7 +6,7 @@
    * [Warm-Ups](expectations-warm-ups.md)
    * [Participation](expectations-participation.md)
    * [Keeping In Touch](keeping_in_touch.md)
-* Academic Practices
+* [Academic Practices](academic_practices.md)
 * [Active Reading Practices](active_reading_practices.md)
 * [Academic Writing Practices](academic_writing_practices.md)
 * [Citing Your Sources](citing_your_sources.md)

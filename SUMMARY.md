@@ -7,7 +7,7 @@
    * [Get in the Right Groove for Class](expectations-warm-ups.md)
    * [Participate Effectively to Get More Out of Class Time](expectations-participation.md)
    * [Take Knowledge from Class to Projects by Taking Notes](taking_notes.md)
-   * [Keeping In Touch](keeping_in_touch.md)
+   * [Stay Current by Keeping In Touch Outside of Class](keeping_in_touch.md)
 * [Using Tools of the (Learner) Trade](using_tools_of_the_learner_trade.md)
    * [Rubrics](rubrics.md)
    * [Models](models.md)

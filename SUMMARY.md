@@ -12,5 +12,5 @@
    * [Warm-Ups](warm-ups.md)
    * [Participation](expectations-participation.md)
 * [Attendance](attendance.md)
-* Participation
+* [Participation](participation.md)
 

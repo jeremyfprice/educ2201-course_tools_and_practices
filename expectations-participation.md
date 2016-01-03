@@ -1,4 +1,4 @@
-# Participate Effectively to Get More Out of Class Time}
+# Participate Effectively to Get More Out of Class Time
 
 We learn best when we converse with others about ideas and concepts, and participation is an important practice for success in university academic life in general. Ongoing participation is an important and required practice in this course. I understand that this may be out of some students' comfort level, but as you will be educators in the near future, I want to help you develop the skills and confidence to lead a discussion and take intellectual risks. Another way of thinking about *intellectual risks* is contributing without the fear of being 100% right. As Ms. Frizzle of the *Magic School Bus* (more than) once said, "Take chances, make mistakes, get messy!" Teaching is also a highly collaborative career, meaning that you will be working closely with other teachers, school and district administrators, your students and parents just to do your job. Our classroom is a safe environment in which to practice participation skills.
 

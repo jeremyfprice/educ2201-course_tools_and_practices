@@ -1,5 +1,0 @@
-# Get in the Right Groove for Class
-
-Every class will begin with a ***cognitive warm-up,*** a short activity designed to help you make the transition into class and to help everyone get on the same page for a successful class. Many of the activities are designed to *activate your prior knowledge* and *prime you* for the work to follow. *Prior knowledge* is the knowledge that you bring with you to your school work. *Priming* is getting you in the right mindset to engage in the work at hand.
-
-Most students have said that this helps them prepare and participate in each class. So, *arriving on time is important* and is a sign of respect to your classmates and to your professor. If you arrive during the cognitive warm-up, please wait outside in the hall until the activity is over. Use this time to take a deep breath and mentally prepare for class until the activity is over, when you are welcome to come in and find a seat.

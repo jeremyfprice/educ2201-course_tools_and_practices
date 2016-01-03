@@ -1,6 +1,6 @@
 # Stay Current by Keeping In Touch Outside of Class
 
-Communications between me and you outside of class will occur over email. Please ***do not send me a message through Blackboard***. Please make sure to **check your Fairmont State email on a regular basis** (at least 4-5 times per week). If you do not have a smart phone, a computer or internet access at home or in your dorm room, make it a regular practice to go to the library and check your email there.
+Communications between me and you outside of class will occur over email. Please ***do not send me messages through Blackboard***. Please make sure to **check your Fairmont State email on a regular basis** (at least 4-5 times per week). If you do not have a smart phone, a computer or internet access at home or in your dorm room, make it a regular practice to go to the library and check your email there.
 
 ###How to Write an Email to Your Professors
 

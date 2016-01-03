@@ -3,7 +3,7 @@
 * [Course Tools and Practices for EDUC2201](README.md)
 * [On Learning](on_learning.md)
 * [Course Expectations](course_expectations.md)
-   * [Attendance](expectations-attendance.md)
+   * [Improve Your Chances of Success by Showing Up to Class](expectations-attendance.md)
    * [Warm-Ups](expectations-warm-ups.md)
    * [Participation](expectations-participation.md)
    * [Taking Notes](taking_notes.md)

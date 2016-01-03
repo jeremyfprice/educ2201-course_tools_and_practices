@@ -7,6 +7,7 @@
    * [Warm-Ups](expectations-warm-ups.md)
    * [Participation](expectations-participation.md)
    * [Keeping In Touch](keeping_in_touch.md)
+   * Taking Notes
 * [Academic Practices](academic_practices.md)
    * [Active Reading](active_reading.md)
    * [Academic Writing](academic_writing.md)

@@ -6,10 +6,10 @@
    * [Warm-Ups](expectations-warm-ups.md)
    * [Participation](expectations-participation.md)
    * [Keeping In Touch](keeping_in_touch.md)
+* Academic Practices
 * [Active Reading Practices](active_reading_practices.md)
 * [Academic Writing Practices](academic_writing_practices.md)
 * [Citing Your Sources](citing_your_sources.md)
 * [Using Tools of the (Learner) Trade](using_tools_of_the_learner_trade.md)
 * ["How Did It Get So Late So Soon?"](how_did_it_get_so_late_so_soon.md)
-* Academic Practices
 

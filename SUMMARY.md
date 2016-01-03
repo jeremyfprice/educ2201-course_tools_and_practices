@@ -13,7 +13,6 @@
    * [Active Reading](active_reading.md)
    * [Academic Writing](academic_writing.md)
    * [Citing Sources](citing_sources.md)
-* [Active Reading Practices](active_reading_practices.md)
 * [Academic Writing Practices](academic_writing_practices.md)
 * [Citing Your Sources](citing_your_sources.md)
 * [Using Tools of the (Learner) Trade](using_tools_of_the_learner_trade.md)

@@ -2,8 +2,8 @@
 
 * [Course Tools and Practices for EDUC2201](README.md)
 * [Course Expectations](course_expectations.md)
-   * [Warm-Ups](expectations-warm-ups.md)
    * [Attendance](expectations-attendance.md)
+   * [Warm-Ups](expectations-warm-ups.md)
    * [Participation](expectations-participation.md)
    * [Keeping In Touch](keeping_in_touch.md)
 * [Active Reading Practices](active_reading_practices.md)

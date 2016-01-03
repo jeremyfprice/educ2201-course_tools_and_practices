@@ -1,2 +1,7 @@
-# Review Your Feedback
+# Keeping the Learning Going by Reviewing Your Feedback
 
+I spend a great deal of time and effort reviewing your work and providing feedback that I think will be helpful for you. Making adjustments to your work is part of the learning process. I also agree with educator Richard Curwin who says that education should really be about giving students second, third, fourth chances. There is also a possibility that you did not fulfill the requirements of the task; in this case, I will ask you to revise and resubmit your work through TaskStream before I assign you points. If you don't check TaskStream and look at your feedback, you won't know this.
+
+You can learn a great deal from feedback so it is important to take the time and effort to read it closely. I *critique* your work, meaning that I provide information about what you did well and information for helping you to do better work in the future. Use this feedback to improve your work in other assignments because the learning performances in this class are related to each other.
+
+You always have the option of resubmitting your work if you feel that you have learned from my feedback and want to show me what you have learned. You have one week from the time I provide you with feedback to resubmit your work for review.
